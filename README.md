@@ -1,5 +1,7 @@
 Codes in this repo has been written by Tay Hui Yi for SP3176 - The Universe, under Prof. Lim Zhi Han.
 
+The poster was done in collaboration with Muhammad B Salman Sabeer and Shao Nandi.
+
 # Introduction to Solar Jets 
 Solar jets are narrow ejections of plasma in the solar atmosphere **(Figure 1)**, which arise from a sudden energy release and mass eruption in the solar atmosphere via the reconfiguration of the magnetic field lines at the jet base **(Figure 2)**. Solar jets are major factors that contribute to the mass and energy input in the upper solar atmosphere and solar wind. The atmospheric image taken from the Sun can be divided into active regions mainly caused by solar jets and quiet areas without them (Tsiropoula et al., 2012).
 

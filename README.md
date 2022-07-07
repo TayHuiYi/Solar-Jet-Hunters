@@ -9,7 +9,7 @@ Solar jets are narrow ejections of plasma in the solar atmosphere **(Figure 1)**
 
 **Figure 1.** *Solar Jet on the sides of the Sun (Generated using JHelioviewer).*
 
-<img src="https://cfn-live-content-bucket-iop-org.s3.amazonaws.com/journals/0004-637X/883/1/104/revision1/apjab3a4df6_lr.jpg?AWSAccessKeyId=AKIAYDKQL6LTV7YY2HIK&Expires=1654147696&Signature=WpZt%2FeYJ5YPr0xTdfFJhS4tOxo8%3D" width="400" height="220">
+<img src="https://github.com/TayHuiYi/Solar-Jet-Hunters/blob/main/Solar_Jet_formation.jpeg" width="430" height="250">
 
 **Figure 2.** *Schematic depiction of solar jet formation (Shen et al., 2019).*
 
